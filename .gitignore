@@ -1,0 +1,6 @@
+.history
+.DS_Store
+*.pyc
+__pycache__
+db.sqlite3
+.python-version
